@@ -1,0 +1,12 @@
+name: nationalcomingoutday
+title: NationalComingOutDay
+username:
+account: frankwebb
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 224758
+bundleId: 1024438
+url: https://frankwebb.shinyapps.io/nationalcomingoutday/
+when: 1507864309.08139
+asMultiple: FALSE
+asStatic: FALSE

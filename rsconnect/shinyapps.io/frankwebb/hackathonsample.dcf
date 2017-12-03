@@ -1,0 +1,13 @@
+name: hackathonsample
+title: HackathonSample
+username:
+account: frankwebb
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 231046
+bundleId: 1054174
+url: https://frankwebb.shinyapps.io/hackathonsample/
+when: 1509494173.61451
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|app.r|data/comingOutGraph.txt|data/COverticesNames.txt
